@@ -87,8 +87,10 @@ p{
   color: #222;
 }
 #ID-name{
-
+  color: #333;
 }
 
-
 ```
+- a global tag is generic like `p`
+- a class will override a global
+- an ID will override a class
