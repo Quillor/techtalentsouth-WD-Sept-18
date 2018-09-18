@@ -62,3 +62,11 @@ li{
 .yellow-text{
   color: yellow;
 }
+
+.box{
+  background-color: pink;
+  padding: 20px;
+  margin: 10px;
+  border: solid red 3px;
+  border: dotted red 3px;
+}
