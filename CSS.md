@@ -75,3 +75,20 @@ p{
 }
 
 ```
+
+## Global Tag, Class and ID
+
+```CSS
+p{
+  color: #111;
+}
+/* classes and IDs name must start with a letter */
+.class-name{
+  color: #222;
+}
+#ID-name{
+
+}
+
+
+```
